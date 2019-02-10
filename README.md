@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/mtumilowicz/scala212-category-theory-set-initial-terminal-objects.svg?branch=master)](https://travis-ci.com/mtumilowicz/scala212-category-theory-set-initial-terminal-objects)
+
 # scala212-category-theory-set-initial-terminal-objects
 _Reference_: http://eed3si9n.com/herding-cats/initial.html
 
